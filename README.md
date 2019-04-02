@@ -19,6 +19,7 @@ src/routes/groups and register that group in  src/routes/groups/index.ts
 
 ### USER
 
+```
 GET http://localhost:3000/v1/users -  List of users
 POST http://localhost:3000/v1/users -  Create user
 {
@@ -129,3 +130,4 @@ DELETE http://localhost:3000/v1/items -  Delete collection
     "id": "5ca36d3769af0d18e07bd5de",
     "editor": "5ca36d3769af0d18e07bd5de"
 }
+```
